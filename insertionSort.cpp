@@ -73,7 +73,7 @@ void display()
 
 int main()
 {
-    inpit();
+    input();
     insertionSort();
     display();
     system("Pause");
