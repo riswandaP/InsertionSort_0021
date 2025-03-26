@@ -71,3 +71,11 @@ void display()
         cout << endl;
 }
 
+int main()
+{
+    inpit();
+    insertionSort();
+    display();
+    system("Pause");
+    return 0;
+}
