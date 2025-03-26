@@ -41,5 +41,7 @@ void insertionSort()
     for (i = 1; i <= n - 1; i++)
     {
         temp = arr[i];
+
+        j = i - 1;
     }
 }
